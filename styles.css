@@ -1,1 +1,23 @@
 /* Write your CSS here! */
+h1 {
+    text-decoration: underline;
+    color: midnightblue;
+    font-style: oblique;
+    font: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+h2 {
+    color: darkslateblue;
+    text-emphasis-color: black;
+}
+h3 {
+    color: slateblue;
+    text-emphasis-color: black;
+}
+p {
+vertical-align: middle;
+}
+img {
+    height: 200
+}
