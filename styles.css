@@ -21,9 +21,22 @@ h3 {
 p {
 vertical-align: middle;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
+padding-bottom: 30px;
 }
 
 img {
     height: 200
 }
 
+body {
+    margin: "8px";
+    display: block;
+}
+
+#mainHeading {
+    background-color: red;
+}
+
+.funParagraph{
+background-color: green;
+}
