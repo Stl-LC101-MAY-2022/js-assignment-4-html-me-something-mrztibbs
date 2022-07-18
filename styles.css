@@ -10,14 +10,20 @@ h1 {
 h2 {
     color: darkslateblue;
     text-emphasis-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 h3 {
     color: slateblue;
     text-emphasis-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 p {
 vertical-align: middle;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 img {
     height: 200
 }
+
