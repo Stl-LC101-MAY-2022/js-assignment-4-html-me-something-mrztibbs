@@ -29,8 +29,9 @@ img {
 }
 
 body {
-    margin: "8px";
+    margin: 8px;
     display: block;
+    
 }
 
 #mainHeading {
@@ -39,4 +40,21 @@ body {
 
 .funParagraph{
 background-color: green;
+}
+
+footer {
+    position: relative;
+    height: 100px;
+    width: 100%;
+    background-color: #333333;
+}
+
+.copyright {
+    position: absolute;
+    width: 100%;
+    color: #fff;
+    line-height: 40px;
+    font-size: 0.7em;
+    text-align: center;
+    bottom:0;
 }
